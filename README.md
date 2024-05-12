@@ -1,8 +1,6 @@
-
 # Fetch News API
 
-This project is a simple news app that fetches the top 5 headlines from the News API and displays them. It leverages React.js for the frontend, Tailwind CSS for styling, and the News API for up-to-date news content.
-
+"This project is a simple news app that fetches the top 5 headlines from the News API and displays them. Clicking on the images redirects to the source of the news page. It leverages React.js for the frontend, Tailwind CSS for styling, and the News API for up-to-date news content."
 
 ## Prerequisites
 
